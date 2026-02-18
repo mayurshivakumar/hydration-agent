@@ -39,10 +39,10 @@ Interactive API documentation is available via **Swagger UI**:
 **http://localhost:3000/api-docs**
 
 The Swagger UI provides:
-- 📖 Complete API endpoint documentation
-- 🎯 Interactive "Try it out" functionality
-- 📝 Request/response schemas with examples
-- ✅ Live testing directly from your browser
+-  Complete API endpoint documentation
+-  Interactive "Try it out" functionality
+-  Request/response schemas with examples
+-  Live testing directly from your browser
 
 ### Using Swagger UI
 
