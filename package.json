@@ -1,0 +1,26 @@
+{
+  "name": "hydration-agent",
+  "version": "1.0.0",
+  "description": "Hydration tracking chat agent with GPT-4.1",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "hydration",
+    "agent",
+    "openai",
+    "gpt-4"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^4.18.2",
+    "openai": "^4.28.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
